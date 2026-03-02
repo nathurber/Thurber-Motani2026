@@ -1,4 +1,5 @@
-setwd("C:/Users/nathu/OneDrive/Documents/PhD Thesis/MorphoSource Mammals/Code")
+#input your working directory
+setwd("")
 
 
 # install.packages("ggplot2")
@@ -3957,4 +3958,5 @@ plot.contrib.one <- function(x,cex = 0.75,ofst.adjst=50,choice=1,axes=T,
     
     
     
+
     
